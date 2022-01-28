@@ -11,7 +11,7 @@
 
 <ul>
 <?php
-        $myMovies = ["<li>Spiderman</li>", "<li>Batman</li>", "<li>The Joker</li>"];
+        $myMovies = ["Spiderman", "Batman", "The Joker"];
 
         foreach ($myMovies as $myMovie) {
         echo $myMovie;
